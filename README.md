@@ -1,9 +1,11 @@
-### Hola 👋
+### 👋 Hola
 - 🚀 Soy AlienDenis12
 - 📫 Como llegar a mi: aliendenis12_yt (Discord)
 
+### Lenguajes
 <details>
   <summary>Lenguajes que he usado</summary>
+  ![]()
 </details>
 
 !Estadísticas de GitHub
