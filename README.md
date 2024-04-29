@@ -5,7 +5,8 @@
 ### Lenguajes
 <details>
   <summary>Lenguajes que he usado</summary>
-  ![]()
+  ![](https://img.shields.io/badge/Code-JavaScript-informational%3Fstyle%3Dflat%26color%3Dinformational%26logo%3Djavascript
+)
 </details>
 
 ###  Estadísticas de GitHub
