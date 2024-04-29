@@ -1,6 +1,6 @@
 ### Hola 👋
 - 🚀 Soy AlienDenis12
-- 📫 Como llegar a mi
+- 📫 Como llegar a mi: aliendenis12_yt (Discord)
 <!--
 **AlienDenis12/AlienDenis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
