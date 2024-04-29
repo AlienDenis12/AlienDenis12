@@ -6,7 +6,7 @@
 <details>
   <summary>Lenguajes que he usado</summary>
   
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational%3Fstyle%3Dflat%26color%3Dinformational%26logo%3Djavascript)
+  ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?Code=JavaScript)
 </details>
 
 ###  Estadísticas de GitHub
