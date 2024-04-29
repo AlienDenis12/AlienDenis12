@@ -3,7 +3,7 @@
 - 📫 Como llegar a mi: aliendenis12_yt (Discord)
 
 
-### 📚 Lenguajes
+### 📚 Lenguajes que he usado
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
   ![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
