@@ -8,7 +8,7 @@
   ![]()
 </details>
 
-!Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienDenis12&theme=dark)
 
