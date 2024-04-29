@@ -2,6 +2,10 @@
 - 🚀 Soy AlienDenis12
 - 📫 Como llegar a mi: aliendenis12_yt (Discord)
 
+<details>
+  <summary>Lenguajes que he usado</summary>
+</details>
+
 !Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienDenis12&theme=dark)
