@@ -3,15 +3,15 @@
 - 📫 Como llegar a mi: aliendenis12_yt (Discord)
 
 ### 📚 Lenguajes
-<details>
-  <summary>Lenguajes que he usado</summary>
+  <details>
+    <summary>Lenguajes que he usado</summary>
   
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
   ![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
   ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
   ![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&color=informational&logo=node.js)
-</details>
+  </details>
 
 ### 📊 Estadísticas de GitHub
 
