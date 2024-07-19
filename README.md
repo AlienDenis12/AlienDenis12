@@ -4,6 +4,7 @@
 
 
 ### 📚 Lenguajes que he usado
+  ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
   ![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
