@@ -2,6 +2,8 @@
 - 🚀 Soy AlienDenis12
 - 📫 Como llegar a mi: aliendenis12_yt (Discord)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)](https://discord.com/users/612886646626451456)
+
 
 ### 📚 Lenguajes que he usado
   ![Java](https://img.shields.io/badge/Code-Java-blue?)
