@@ -4,7 +4,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)](https://discord.com/users/612886646626451456)
 
-
 ### 📚 Lenguajes que he usado
   ![Java](https://img.shields.io/badge/Code-Java-blue?)
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
