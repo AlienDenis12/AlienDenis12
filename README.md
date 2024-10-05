@@ -7,7 +7,6 @@
   ![Java](https://img.shields.io/badge/Code-Java-blue?)
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-  ![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
   ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
   ![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&color=informational&logo=node.js)
 
