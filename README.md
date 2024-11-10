@@ -1,6 +1,6 @@
 ### 👋 Hola
 - 🚀 Soy AlienDenis12
-- 📫 Como llegar a mi: aliendenis12_yt (Discord)
+- 📫 Como llegar a mi: aliendenis12 (Discord)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)](https://discord.com/users/612886646626451456)
 
