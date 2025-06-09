@@ -2,7 +2,7 @@
 - 🚀 Soy AlienDenis12
 - 📫 Como llegar a mi: aliendenis12 (Discord)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)](https://discord.com/users/612886646626451456)
+![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)
 
 ### 📚 Lenguajes que he usado
   ![Java](https://img.shields.io/badge/Code-Java-blue?)
@@ -13,9 +13,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienDenis12&show_icons=true&theme=dark&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienDenis12&show_icons=true&theme=dark&border_radius=10&border_color=58bed5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDenis12&theme=dark&layout=compact&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDenis12&theme=dark&layout=compact&border_radius=10&border_color=58bed5)
 
 <!--
 **AlienDenis12/AlienDenis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
