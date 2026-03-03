@@ -13,9 +13,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienDenis12&show_icons=true&theme=dark&border_radius=10&border_color=58bed5)
+![GitHub Stats](https://github-readme-stats-seven-inky-21.vercel.app/api?username=AlienDenis12&show_icons=true&theme=dark&border_radius=10&border_color=58bed5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDenis12&theme=dark&layout=compact&border_radius=10&border_color=58bed5)
+![Top Langs](https://github-readme-stats-seven-inky-21.vercel.app/api/top-langs/?username=AlienDenis12&theme=dark&layout=compact&border_radius=10&border_color=58bed5)
 
 <!--
 **AlienDenis12/AlienDenis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
