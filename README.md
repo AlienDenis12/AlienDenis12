@@ -1,5 +1,5 @@
 ### 👋 Hola
-- 🚀 Soy AlienDenis12
+- 🚀 Soy Denis
 - 📫 Como llegar a mi: aliendenis12 (Discord)
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)
