@@ -1,14 +1,8 @@
 ### 👋 Hola
 - 🚀 Soy Denis
-- 📫 Como llegar a mi: aliendenis12 (Discord)
+- 📫 Cómo llegar a mi: aliendenis12 (Discord)
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/612886646626451456)
-
-### 📚 Lenguajes que he usado
-  ![Java](https://img.shields.io/badge/Code-Java-blue?)
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
-  ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-  ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 
 
 ### 📊 Estadísticas de GitHub
